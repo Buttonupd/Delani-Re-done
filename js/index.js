@@ -20,3 +20,14 @@ $(document).ready(function(){
 
     });
 });
+
+$(document).ready(function(){
+    $("#prod-img").click(function(){
+        $("#prod-img").slideDown('1500').hide('1000');
+        $("#products").show('1500');
+    });
+    $("#products").click(function(){
+        $("#products").slideUp('1500');
+        $("#prod-img").slideDown('1500');
+    })
+})
