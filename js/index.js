@@ -10,5 +10,12 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#")
+    $("#fashion-img").click(function(){
+        $("#fashion-img").slideDown('1500').hide('1000');
+        $("#DESIGN").show('1500');
+    })
+    $("#DESIGN").click(function(){
+        $("#DESIGN").slideUp('1500');
+        
+    })
 })
