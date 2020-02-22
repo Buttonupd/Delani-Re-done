@@ -29,5 +29,13 @@ $(document).ready(function(){
     $("#products").click(function(){
         $("#products").slideUp('1500');
         $("#prod-img").slideDown('1500');
-    })
-})
+    });
+});
+
+$(document).ready(function(){
+    $("#one").mouseover(function(){
+        $("#overlay1").show();
+    }).mouseout(function(){
+        $("#overlay1").hide();
+    });
+});
