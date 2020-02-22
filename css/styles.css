@@ -102,4 +102,25 @@ input[type=text], input[type=email], #comment{
     font-size: 20px;
     font-family: sans-serif;
 }
-.for
+.form-control::-webkit-input-placeholder{
+    color: white;
+}
+#merge1{
+    width: 30%;
+    margin-left: 18%;
+    margin-right: 30px;
+}
+#comment{
+    margin-left: 20px;
+    width: 60%;
+}
+button{
+    margin-left: 20px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+footer{
+    text-align: center;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
