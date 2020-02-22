@@ -53,3 +53,14 @@
 .Services h2{
     font-family: sans-serif;
 }
+#services_rendered{
+    background-color: rgba(red, green, blue, alpha);
+    padding-top: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.FOR_YOU{
+    padding-bottom: 30%;
+}
+#portfolio{
+    
+}
