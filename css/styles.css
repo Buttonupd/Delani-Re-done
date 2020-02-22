@@ -1,6 +1,6 @@
 .landing{
     background-image: url('https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg');
-    background-position: center center;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     color: black;
@@ -43,7 +43,7 @@
 }
 .Services{
     text-emphasis: center;
-    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg);
+    background-image: url('https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg');
     color: white;
     background-size: cover;
     background-repeat: no-repeat;
@@ -59,8 +59,30 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .FOR_YOU{
-    padding-bottom: 30%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
 }
+
 #portfolio{
-    
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-left: 18%;
+    margin-right: 16%;
+
+}
+.PORTFOLIO h2{
+    text-align: center;
+    padding-top: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    background-image: url('https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
 }
