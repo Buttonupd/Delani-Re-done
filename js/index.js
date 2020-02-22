@@ -102,6 +102,12 @@ $(document).ready(function(){
         var name = $("input#merge1").val();
         var email = $("input#merge0").val();
         var message = $("textarea#comment").val();
-        
+        if ($ ("input#merge1").val() && ("input#merge0").val()) {
+            alert(name + ", Your message has been received. Thank you for reaching out to us");
+        }
+        else {
+            alert("Please enter your name and email");
+        }
+
     })
 })
