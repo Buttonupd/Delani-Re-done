@@ -5,22 +5,35 @@
     background-repeat: no-repeat;
     color: black;
     text-align: center;
-    padding-top: 17%;
+    padding-top: 30%;
     font-family: 'Gabriela', serif;
 }
+.container-c{
+    position: static;
+    
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+}
 .landing h1{
-    padding: 2px;
-    margin: 5px;
+    padding: 8px;
+    margin: 8px;
 }
 .landing p{
-    padding: 2px;
+    padding: 6px;
 }
 
 #logo{
-    margin-top: 12px;
-    margin-bottom: 24px;
-    width: 70%;
-    height: 70%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 13%;
+    height: 13%;
 }
 #mouse-click{
     padding-top: 22px;
