@@ -59,22 +59,28 @@
     padding-top: 10%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.FOR_YOU{
+.container c{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
     padding-top: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
 }
-
 #portfolio{
     display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    margin-left: 18%;
-    margin-right: 16%;
-
+      flex-wrap: wrap;
+      align-items: center;
+      margin-left: 18%;
+      margin-right: 16%;  
+      margin-right: 16%;
+      margin-left: 8%;
+  }
+.col-md-3 img{
+    max-width: 100%;
+    max-height: 100%;
 }
+
+
 .PORTFOLIO h2{
     text-align: center;
     padding-top: 40%;
@@ -264,5 +270,8 @@ footer p{
     font-weight: bold;
 
 }
-
+.col-md-3 img{
+    width: 100%;
+    margin: 20px;
+}
 
