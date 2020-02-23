@@ -45,6 +45,7 @@
     text-emphasis: center;
     background-image: url('https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/s_image.jpg');
     color: white;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     font-family: sans-serif;
@@ -138,8 +139,130 @@ footer p{
     font-family: sans-serif;
     font-size: 16px  
 }
-#design{
+#DESIGN{
     display: none;
     font-family: sans-serif;
     font-size: 16px
 }
+.label2{
+    font-size: 20px;
+    font-weight: 600;
+}
+.label{
+    font-size: 20px;
+    font-weight: 600;
+}
+.label3{
+    font-size: 20px;
+    font-weight: 600;
+}
+#switch_board{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+
+#switch_board2{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+
+#switch_board3{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+
+#switch_board4{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+
+#switch_board5{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+#switch_board6{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+#switch_board7{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+#switch_board8{
+    display: none;
+    color: black;
+    top: 20px;
+    left: 35px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50%;
+    width: 100%;
+    height: 100%;
+    font-weight: bold;
+
+}
+
+
